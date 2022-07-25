@@ -1,0 +1,3 @@
+{
+ ver1 : '10' ,  ver2 : '0' ,  ver3 : 'Show With Your Self The New Mods' ,  dli : 'https://ra-whatsapp.blogspot.com/2022/04/ra-whatsapp-v13.html' 
+}
